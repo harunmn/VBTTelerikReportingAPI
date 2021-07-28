@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VBTTelerikReportingAPI", "VBTTelerikReportingAPI\VBTTelerikReportingAPI.csproj", "{54B0772D-07B3-432D-81E7-E063271C1731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B0772D-07B3-432D-81E7-E063271C1731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B0772D-07B3-432D-81E7-E063271C1731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B0772D-07B3-432D-81E7-E063271C1731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B0772D-07B3-432D-81E7-E063271C1731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838DCD44-AA05-497A-B424-0041653A7C62}
+	EndGlobalSection
+EndGlobal
